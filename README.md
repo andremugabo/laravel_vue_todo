@@ -36,12 +36,3 @@ Empty List | With Items
 1. Start your development server and start testing the web app. `php artisan serve --port 8080`
 1. Congratulations if you made it!
 
-Need helps? Reach me out 
->Email: kevinmulugu@gmail.com
->
->Twitter: [@kevvoh_](https://twitter.com/kevvoh_)
->
->Linkedin: [Kevin Mulugu](https://www.linkedin.com/in/kevinmulugu/)
-
-All the best :beer:
-# laravel_vue_todo
